@@ -1,0 +1,28 @@
+{
+  "name": "aws-fake-service",
+  "version": "1.0.0",
+  "description": "A fake service based on \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[DJASONPlaceholder based fake service with CRUD operation\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aws-apps/node-aws-fake-service.git"
+  },
+  "keywords": [
+    "node",
+    "aws",
+    "microservice"
+  ],
+  "author": "Pradeep Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aws-apps/node-aws-fake-service/issues"
+  },
+  "homepage": "https://github.com/aws-apps/node-aws-fake-service#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
